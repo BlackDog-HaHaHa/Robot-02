@@ -114,5 +114,5 @@ if __name__=='__main__':
     with open('ImgNameLog.txt','w+',encoding='utf-8') as f:
         f.write('start\n')
         f.close()
-    url = "https://www.toutiao.com/a6737947689629041155/"
+    url = "https://www.toutiao.com/a6737947689629041155/" # 最开始爬取的页面，可自行修改
     useWebEngineMethod(url)
