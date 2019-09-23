@@ -8,7 +8,6 @@ bug：暂无
 bug：无法获取完整“相关推荐”的链接    
     
 03版本：修复了02版本的问题    
-bug：出现”ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接“问题    
-    爬取过程中cpu负载高    
+bug：出现”ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接“问题；爬取过程中cpu负载高    
 
 环境：python3.7
